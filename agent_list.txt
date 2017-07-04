@@ -1,0 +1,2 @@
+$VOLTTRON_APP_HOME/volttron-applications/pnnl/ControlAgent	../../volttron-applications/pnnl/ControlAgent/config	ControlAgent
+$VOLTTRON_APP_HOME/volttron-applications/pnnl/energyplusagent	idf_converter/config	EPlusAgent
